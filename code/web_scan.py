@@ -1,6 +1,7 @@
 """
 Scans and makes a copy of the quite simple web-site layout
 For tests and improvements
+GIT rules!
 """
 import datetime
 import logging
